@@ -1,0 +1,50 @@
+.calcule{
+   height: 400px; 
+   width: 300px;  
+   background-color: rgba(0, 0, 0, 0.288);
+   margin: auto;
+   border-radius: 30px 0 30px 0px;
+   text-align: center; 
+}
+.calcule input{
+    width: 80%;
+    margin-top: 20px;
+    padding: 13px;
+    background-color: #fff;
+    font-size: large;
+}
+.ligne1 button{
+   height: 30px;
+   width: 50px;
+   margin-top: 10px;
+}
+
+.ligne2 button{
+    height: 30px;
+    width: 50px;
+    margin-top: 10px;
+ }
+ .ligne3 button{
+    height: 30px;
+    width: 50px;
+    margin-top: 10px;
+ }
+ .ligne4 button{
+    height: 30px;
+    width: 50px;
+    margin-top: 10px;
+ }
+ .ligne4{
+     position: relative;
+     right: 1px; 
+ }
+ .ligne4 .egale{
+     width: 157px;
+ }
+
+button:hover{
+    background-color: rgb(255, 255, 255);
+    border:none;
+    height: 35px;
+    width: 55px;
+}
